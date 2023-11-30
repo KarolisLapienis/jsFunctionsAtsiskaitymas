@@ -19,7 +19,7 @@ let myName = "Karolis"
 let pasisveikinimasMan = greeting(myName, hello())
 
 let friendName = "Arvydas"
-let pasisveikinimasDraugui = greeting(friendName, hello())
+let pasisveikinimasDraugui = greeting(friendName, hello.pasisveikinimas)
 
 // 2
 
